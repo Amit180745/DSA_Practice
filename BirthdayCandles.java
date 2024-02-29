@@ -26,7 +26,6 @@ public class BirthdayCandles {
            {
            count++;
            }
-
          }   
          System.out.println(count);
     }
